@@ -1,6 +1,6 @@
 # Instgram-Clone using React ⚛️ & Firebase 🔥
 
-## Live Link - https://instagram-clone-efedf.web.app/
+### [Live Link](https://instagram-clone-efedf.web.app/)
 
 #### Tech Stack :
 - React JS
