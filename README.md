@@ -6,7 +6,7 @@
 - React JS
 - Firebase
 
-### `Features Included`
+### `☑️ Features Included`
 
 1. Component based design.
 2. Firebase authentication.
@@ -16,7 +16,7 @@
 6. Uploading posts.
 7. Adding comments.
 
-### `Upcoming Features`
+### `📦 Upcoming Features`
 - Adding profile page.
 - Editing comments.
 - Uploading stories.
